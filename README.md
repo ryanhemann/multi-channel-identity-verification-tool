@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Multi-Channel Verification Code Sender is a Python script that sends a verification code using different communication channels, such as SMS text messages, phone calls, and emails. It leverages Twilio for SMS and phone call services and uses the smtplib library for sending emails.
+The Multi-Channel Verification Code Sender is a versatile Python tool designed to enhance user verification processes, intended for use with a whitelisted contact information database. Leveraging SMS text messages, phone calls, and email, it ensures secure and efficient identity verification. This tool is particularly beneficial in mitigating social engineering attacks on Tier 1 technical support agents, improving security and user trust. With options for customization and scalability, it adapts to unique organizational needs. Open-source and transparent, it encourages community collaboration and code review, offering reliability and transparency. In summary, the Multi-Channel Verification Code Sender is a valuable addition to your cybersecurity toolkit, reducing human error, and providing a robust defense against unauthorized access.
 
 ## Prerequisites
 
